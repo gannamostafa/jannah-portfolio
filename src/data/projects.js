@@ -1,3 +1,5 @@
+const BASE_URL = import.meta.env.BASE_URL;
+
 export const projects = [
   {
     id: 1,
@@ -24,10 +26,10 @@ export const projects = [
     ],
 
     images: [
-      "/jannah-protfolio/projects/green-market/home.png",
-      "/jannah-protfolio/projects/green-market/product.png",
-      "/jannah-protfolio/projects/green-market/product-2.png",
-      "/jannah-protfolio/projects/green-market/admin.png",
+      `${BASE_URL}projects/green-market/home.png`,
+      `${BASE_URL}projects/green-market/product.png`,
+      `${BASE_URL}projects/green-market/product-2.png`,
+      `${BASE_URL}projects/green-market/admin.png`,
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
@@ -59,10 +61,10 @@ export const projects = [
     ],
 
     images: [
-      "/jannah-protfolio/projects/greenmind/landing.jpg",
-      "/jannah-protfolio/projects/greenmind/home.jpg",
-      "/jannah-protfolio/projects/greenmind/album.jpg",
-      "/jannah-protfolio/projects/greenmind/games.jpg",
+      `${BASE_URL}projects/greenmind/landing.jpg`,
+      `${BASE_URL}projects/greenmind/home.jpg`,
+      `${BASE_URL}projects/greenmind/album.jpg`,
+      `${BASE_URL}projects/greenmind/games.jpg`,
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
@@ -92,9 +94,9 @@ export const projects = [
     ],
 
     images: [
-      "/jannah-protfolio/projects/portfolio/home.png",
-      "/jannah-protfolio/projects/portfolio/about.png",
-      "/jannah-protfolio/projects/portfolio/projects.png",
+      `${BASE_URL}projects/portfolio/home.png`,
+      `${BASE_URL}projects/portfolio/about.png`,
+      `${BASE_URL}projects/portfolio/projects.png`,
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
@@ -125,9 +127,9 @@ export const projects = [
     ],
 
     images: [
-      "/jannah-protfolio/projects/alf-mabrook/first.png",
-      "/jannah-protfolio/projects/alf-mabrook/second.png",
-      "/jannah-protfolio/projects/alf-mabrook/third.png",
+      `${BASE_URL}projects/alf-mabrook/first.png`,
+      `${BASE_URL}projects/alf-mabrook/second.png`,
+      `${BASE_URL}projects/alf-mabrook/third.png`,
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",

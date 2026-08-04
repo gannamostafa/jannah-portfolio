@@ -80,7 +80,7 @@ const Hero = () => {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="/resume.pdf"
+                href={`${import.meta.env.BASE_URL}resume.pdf`}
                 download
                 className="px-8 py-4 rounded-full border border-pink-500 hover:bg-pink-500 duration-300"
               >
@@ -130,7 +130,7 @@ const Hero = () => {
             {/* Main Glow */}
             <div className="absolute w-[420px] h-[420px] rounded-full bg-pink-500/20 blur-[100px]" />
 
-            {/* MongoDB */}
+            {/* Tech Badges */}
             <motion.div
               animate={{ y: [0, -15, 0] }}
               transition={{ repeat: Infinity, duration: 4 }}
@@ -141,7 +141,6 @@ const Hero = () => {
               </div>
             </motion.div>
 
-            {/* Angular (جديد) */}
             <motion.div
               animate={{ y: [0, 14, 0] }}
               transition={{ repeat: Infinity, duration: 4.5 }}
@@ -152,7 +151,6 @@ const Hero = () => {
               </div>
             </motion.div>
 
-            {/* React */}
             <motion.div
               animate={{ y: [0, 15, 0] }}
               transition={{ repeat: Infinity, duration: 5 }}
@@ -163,7 +161,6 @@ const Hero = () => {
               </div>
             </motion.div>
 
-            {/* Node.js */}
             <motion.div
               animate={{ y: [0, -12, 0] }}
               transition={{ repeat: Infinity, duration: 3 }}
@@ -174,7 +171,6 @@ const Hero = () => {
               </div>
             </motion.div>
 
-            {/* Express */}
             <motion.div
               animate={{ y: [0, 12, 0] }}
               transition={{ repeat: Infinity, duration: 5 }}
@@ -191,10 +187,10 @@ const Hero = () => {
               className="relative w-[360px] h-[360px] rounded-full overflow-hidden border-[5px] border-pink-500 shadow-[0_0_70px_#ec4899]"
             >
               <img
-  src="/jannah-protfolio/profile.png"
-  alt="Jannah"
-  className="w-full h-full object-cover"
-/>
+                src={`${import.meta.env.BASE_URL}profile.png`}
+                alt="Jannah"
+                className="w-full h-full object-cover"
+              />
             </motion.div>
           </motion.div>
 
