@@ -24,10 +24,10 @@ export const projects = [
     ],
 
     images: [
-      "/jannah-protfolio/projects/projects/green-market/home.png",
-      "/jannah-protfolio/projects/projects/green-market/product.png",
-      "/jannah-protfolio/projects/projects/green-market/product-2.png",
-      "/jannah-protfolio/projects/projects/green-market/admin.png",
+      "/jannah-protfolio/projects/green-market/home.png",
+      "/jannah-protfolio/projects/green-market/product.png",
+      "/jannah-protfolio/projects/green-market/product-2.png",
+      "/jannah-protfolio/projects/green-market/admin.png",
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
@@ -59,10 +59,10 @@ export const projects = [
     ],
 
     images: [
-      "/jannah-protfolio/projects/projects/greenmind/landing.jpg",
-      "/jannah-protfolio/projects/projects/greenmind/home.jpg",
-      "/jannah-protfolio/projects/projects/greenmind/album.jpg",
-      "/jannah-protfolio/projects/projects/greenmind/games.jpg",
+      "/jannah-protfolio/projects/greenmind/landing.jpg",
+      "/jannah-protfolio/projects/greenmind/home.jpg",
+      "/jannah-protfolio/projects/greenmind/album.jpg",
+      "/jannah-protfolio/projects/greenmind/games.jpg",
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
@@ -92,9 +92,9 @@ export const projects = [
     ],
 
     images: [
-      "/jannah-protfolio/projects/projects/portfolio/home.png",
-      "/jannah-protfolio/projects/projects/portfolio/about.png",
-      "/jannah-protfolio/projects/projects/portfolio/projects.png",
+      "/jannah-protfolio/projects/portfolio/home.png",
+      "/jannah-protfolio/projects/portfolio/about.png",
+      "/jannah-protfolio/projects/portfolio/projects.png",
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
@@ -125,9 +125,9 @@ export const projects = [
     ],
 
     images: [
-      "/jannah-protfolio/projects/projects/alf-mabrook/first.png",
-      "/jannah-protfolio/projects/projects/alf-mabrook/second.png",
-      "/jannah-protfolio/projects/projects/alf-mabrook/third.png",
+      "/jannah-protfolio/projects/alf-mabrook/first.png",
+      "/jannah-protfolio/projects/alf-mabrook/second.png",
+      "/jannah-protfolio/projects/alf-mabrook/third.png",
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",

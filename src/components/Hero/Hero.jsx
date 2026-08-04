@@ -191,10 +191,10 @@ const Hero = () => {
               className="relative w-[360px] h-[360px] rounded-full overflow-hidden border-[5px] border-pink-500 shadow-[0_0_70px_#ec4899]"
             >
               <img
-                src="/jannah-protfolio/projects/profile.png"
-                alt="Jannah"
-                className="w-full h-full object-cover"
-              />
+  src="/jannah-protfolio/profile.png"
+  alt="Jannah"
+  className="w-full h-full object-cover"
+/>
             </motion.div>
           </motion.div>
 

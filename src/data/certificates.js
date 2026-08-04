@@ -11,7 +11,7 @@ export const certificates = [
       "Completed Full Stack Development training with a focus on PHP-based web development, covering frontend technologies, backend development, databases, APIs, and software development practices.",
     highlight:
       "Professional training focused on building full-stack web applications using PHP and related web technologies.",
-    image: "/jannah-protfolio/projects/certificates/nti-php.png",
+    image: "/jannah-protfolio/certificates/nti-php.png",
     skills: [
       "PHP",
       "HTML",
@@ -36,7 +36,7 @@ export const certificates = [
       "Participated in the NASA Space Apps Challenge, collaborating with a team to explore a real-world challenge and develop a technology-driven solution using data and innovative approaches.",
     highlight:
       "A global hackathon experience focused on teamwork, innovation, problem-solving, and the use of NASA's open data and technologies.",
-    image: "/jannah-protfolio/projects/certificates/nasa-space-apps.png",
+    image: "/jannah-protfolio/certificates/nasa-space-apps.png",
     skills: [
       "Teamwork",
       "Problem Solving",
@@ -59,7 +59,7 @@ export const certificates = [
       "Completed an introductory deep learning course covering fundamental concepts and providing a practical foundation for understanding neural networks and modern AI technologies.",
     highlight:
       "Built foundational knowledge of deep learning concepts and neural networks through NVIDIA's learning platform.",
-    image: "/jannah-protfolio/projects/certificates/nvidia-deep-learning.png",
+    image: "/jannah-protfolio/certificates/nvidia-deep-learning.png",
     credentialId: "7k82OXCtRcqmdhf7dHXsXQ",
     skills: [
       "Deep Learning",
@@ -82,7 +82,7 @@ export const certificates = [
       "Obtained a freelance authorization through ITIDA Gigs, supporting my professional development and readiness to work independently on technology and software development projects.",
     highlight:
       "Professional freelance authorization that supported my journey toward independent work and client-based technology projects.",
-    image: "/jannah-protfolio/projects/certificates/itida-gigs.png",
+    image: "/jannah-protfolio/certificates/itida-gigs.png",
     skills: [
       "Freelancing",
       "Client Communication",
@@ -104,7 +104,7 @@ export const certificates = [
       "Completed a 210-hour intensive MEAN Stack Development training program focused on building modern full-stack web applications using MongoDB, Express.js, Angular, and Node.js.",
     highlight:
       "210-hour professional training program focused on modern JavaScript-based full-stack development and the MEAN Stack.",
-    image: "/jannah-protfolio/projects/certificates/nti-mean-stack.png",
+    image: "/jannah-protfolio/certificates/nti-mean-stack.png",
     skills: [
       "MongoDB",
       "Express.js",
