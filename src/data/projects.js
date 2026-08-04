@@ -24,10 +24,10 @@ export const projects = [
     ],
 
     images: [
-      "/projects/green-market/home.png",
-      "/projects/green-market/product.png",
-      "/projects/green-market/product-2.png",
-      "/projects/green-market/admin.png",
+      "/jannah-protfolio/projects/projects/green-market/home.png",
+      "/jannah-protfolio/projects/projects/green-market/product.png",
+      "/jannah-protfolio/projects/projects/green-market/product-2.png",
+      "/jannah-protfolio/projects/projects/green-market/admin.png",
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
@@ -59,10 +59,10 @@ export const projects = [
     ],
 
     images: [
-      "/projects/greenmind/landing.jpg",
-      "/projects/greenmind/home.jpg",
-      "/projects/greenmind/album.jpg",
-      "/projects/greenmind/games.jpg",
+      "/jannah-protfolio/projects/projects/greenmind/landing.jpg",
+      "/jannah-protfolio/projects/projects/greenmind/home.jpg",
+      "/jannah-protfolio/projects/projects/greenmind/album.jpg",
+      "/jannah-protfolio/projects/projects/greenmind/games.jpg",
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
@@ -92,9 +92,9 @@ export const projects = [
     ],
 
     images: [
-      "/projects/portfolio/home.png",
-      "/projects/portfolio/about.png",
-      "/projects/portfolio/projects.png",
+      "/jannah-protfolio/projects/projects/portfolio/home.png",
+      "/jannah-protfolio/projects/projects/portfolio/about.png",
+      "/jannah-protfolio/projects/projects/portfolio/projects.png",
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
@@ -125,9 +125,9 @@ export const projects = [
     ],
 
     images: [
-      "/projects/alf-mabrook/first.png",
-      "/projects/alf-mabrook/second.png",
-      "/projects/alf-mabrook/third.png",
+      "/jannah-protfolio/projects/projects/alf-mabrook/first.png",
+      "/jannah-protfolio/projects/projects/alf-mabrook/second.png",
+      "/jannah-protfolio/projects/projects/alf-mabrook/third.png",
     ],
 
     githubUrl: "PUT_YOUR_GITHUB_LINK_HERE",
