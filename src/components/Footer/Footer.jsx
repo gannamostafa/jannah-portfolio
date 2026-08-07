@@ -23,7 +23,7 @@ const Footer = () => {
           <a href="https://github.com/gannamostafa" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-pink-400 transition-colors">
             <FaGithub size={18} />
           </a>
-          <a href="https://www.linkedin.com/in/ganna-mostafa-63405425b" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">
+          <a href="https://www.linkedin.com/in/jannah-mostafa-63405425b" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">
             <FaLinkedin size={18} />
           </a>
           <a href="mailto:polandagacy@gmail.com" className="text-gray-400 hover:text-purple-400 transition-colors">

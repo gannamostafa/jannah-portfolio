@@ -122,7 +122,7 @@ const Contact = () => {
                 GitHub
               </a>
               <a
-                href="https://www.linkedin.com/in/ganna-mostafa-63405425b"
+                href="https://www.linkedin.com/in/jannah-mostafa-63405425b"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-2 px-4 py-3 rounded-full border border-white/10 hover:border-cyan-400 hover:text-cyan-300 transition-all"

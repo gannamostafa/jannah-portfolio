@@ -93,7 +93,7 @@ const Hero = () => {
               <a href="https://github.com/gannamostafa" className="hover:text-pink-500 duration-300">
                 <FaGithub />
               </a>
-              <a href="https://www.linkedin.com/in/ganna-mostafa-63405425b" className="hover:text-pink-500 duration-300">
+              <a href="https://www.linkedin.com/in/jannah-mostafa-63405425b" className="hover:text-pink-500 duration-300">
                 <FaLinkedin />
               </a>
               <a href="mailto:polandagacy@gmail.com" className="hover:text-pink-500 duration-300">
